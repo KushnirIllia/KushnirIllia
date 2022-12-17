@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Illia Kushnir</h1>
 <h3 align="center">A Junior Front End Developer from Ukraine</h3>
-
 <p align="left">
 	<img
 		src="https://komarev.com/ghpvc/?username=kushnirillia&label=Profile%20views&color=0e75b6&style=flat"
 		alt="kushnirillia"
 	/>
 </p>
-
 <p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"
 		><img
@@ -15,10 +13,8 @@
 			alt="kushnirillia"
 	/></a>
 </p>
-
 - 🌱 I’m currently learning **Js, React, Html, Css** - 📫 How to reach me
 **illiakushnira@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/kushnir_illia" target="blank"
@@ -38,7 +34,6 @@
 			width="40"
 	/></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a
@@ -93,7 +88,6 @@
 			height="40"
 		/>
 	</a>
-
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -110,7 +104,6 @@
 			height="40"
 		/>
 	</a>
-
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -119,7 +112,6 @@
 			height="40"
 		/>
 	</a>
-
 	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
@@ -128,7 +120,6 @@
 			height="40"
 		/>
 	</a>
-
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -146,7 +137,6 @@
 		/>
 	</a>
 </p>
-
 <p>
 	<img
 		align="left"
@@ -154,7 +144,6 @@
 		alt="kushnirillia"
 	/>
 </p>
-
 <p>
 	&nbsp;<img
 		align="center"
