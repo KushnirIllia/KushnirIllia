@@ -13,7 +13,7 @@
 			alt="kushnirillia"
 	/></a>
 </p>
-- 🌱 I’m currently learning Js, React, Html, Css
+- 🌱 I’m currently learning <b>Js, React, Html, Css</b><br>
 - 📫 How to reach me illiakushnira@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
